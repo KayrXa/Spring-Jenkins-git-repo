@@ -222,10 +222,10 @@
   </build>
 
   <scm>
-    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+    <connection>scm:git:git@github.com:KayrXa/Spring-Jenkins-git-repo.git</connection>
+    <developerConnection>scm:git:git@github.com:KayrXa/Spring-Jenkins-git-repo.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
+    <url>http://github.com/KayrXa/Spring-Jenkins-git-repo.git</url>
   </scm>
 
   <prerequisites>
