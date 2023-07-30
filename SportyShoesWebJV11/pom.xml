@@ -23,8 +23,7 @@
   </properties>
 
   <modules>
-    <module>server</module>
-    <module>webapp</module>
+    <module>src</module>
   </modules>
 
   <distributionManagement>
